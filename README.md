@@ -6,11 +6,15 @@
 
 ---
 
+#### - 💻 I am very familiar with programming languages such as C/C++, Java, Python, JavaScript/Typescript and have made several projects in these languages including Connect 4, Baccarat, AlbatrossCC, and a job tracking website called DevJobTracker (see pinned)
+
+---
+
 #### - 🔭 I’m currently working on building my personal website. This platform will not only showcase my portfolio of past and upcoming projects (including being able to write in a custom made language I made during my time in college) but also feature my resume, detailing my work experience and skills.
 
 ---
 
-#### - 🌱 I’m consistently learning new technologies and best practices in software development to keep my skills sharp and up-to-date. Right now, I am learning more about front end technologies such as React and Bootstrap to give my upcoming personal website some personality. I also plan on learning back-end technologies such as Go, Docker, and AWS, where I plan on giving people the opportunity to experiment with my own programming language also known as Albatross.
+#### - 🌱 I’m consistently learning new technologies and best practices in software development to keep my skills sharp and up-to-date. Right now, I am learning more about front end technologies such as React and Bootstrap to give my upcoming personal website some personality. I also plan on learning back-end technologies such as Go, Docker, and AWS, where I plan on giving people the opportunity to experiment with my own compiled programming language also known as Albatross written in C.
 
 ---
 
