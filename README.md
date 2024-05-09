@@ -22,11 +22,11 @@
 
 ---
 
-#### - 📫 How to reach me: Feel free to send me an email which is arodriguez11400@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/arodriguez11400/) page and send me a message there.
+#### - 📫 How to contact me: Feel free to send me an email which is arodriguez11400@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/arodriguez11400/) page and send me a message there. I am currently in the search for an entry level software engineering/developer position so please don't hesitate to reach out.
 
 ---
 
-### Thank you for stopping by. I look forward to connecting with you!
+### Thanks for stopping by. I look forward to connecting with you!
 
 <!--
 **arod1104/arod1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
