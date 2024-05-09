@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to my GitHub page! I'm am a recent Computer Science graduate from the University of Illinois at Chicago, eager to explore opportunities where I can contribute and further enhance my skills. If you're reading this, chances are you're probably part of the talent aquisition team looking to take a glimpse at my portfolio.
+## Welcome to my GitHub page! I'm am a recent Computer Science graduate from the University of Illinois at Chicago, eager to explore opportunities where I can contribute and further enhance my skills. If you're reading this, chances are you're probably part of the talent aquisition team looking to take a glimpse at my portfolio.
 
 Although I am unable to show you most of my University projects due to copyrighted material, I would like to give you a quick introduction about me and what my goals are for the near future.
 
