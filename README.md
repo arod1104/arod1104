@@ -6,7 +6,7 @@
 
 ---
 
-- #### 💻 I am very familiar with programming languages such as C/C++, Java, Python, JavaScript/Typescript and have made several projects in these languages including Connect 4, Baccarat, AlbatrossCC, and a job tracking website called DevJobTracker (see pinned).
+- #### 💻 I am very familiar with programming languages such as C/C++, Java, Python, JavaScript/Typescript, and Go and have made several projects in these languages including Connect 4, Baccarat, AlbatrossCC, and a job tracking website called DevJobTracker (see pinned).
 
 ---
 
