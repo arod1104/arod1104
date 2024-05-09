@@ -10,7 +10,7 @@ Welcome to my GitHub page! I'm am a Computer Science graduate from the Universit
 
 - 💬 Ask me about anything related to my projects or experiences. I'm always open to discussing tech and potential opportunities.
 
-- 📫 How to reach me: Feel free to send me an email which is arodriguez11400@gmail.com or visit my LinkedIn page and send me a message there
+- 📫 How to reach me: Feel free to send me an email which is arodriguez11400@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/arodriguez11400/) page and send me a message there.
 
 Thank you for stopping by. I look forward to connecting with you!
 
