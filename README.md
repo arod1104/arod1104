@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
 
-### Welcome to my GitHub page! I'm a recent Computer Science graduate from the University of Illinois at Chicago, eager to explore opportunities where I can contribute and further enhance my skills. If you're reading this, chances are you're probably part of the talent aquisition team looking to take a glimpse at my portfolio.
+### Welcome to my GitHub page! I'm a Computer Science graduate from the University of Illinois at Chicago, eager to explore opportunities where I can contribute and further enhance my skills.
 
-### Although I am unable to show you most of my University projects due to copyrighted material, I would like to give you a quick introduction about me and what my goals are for the near future.
-
----
-
-- #### 💻 I am very familiar with programming languages such as C/C++, Java, Python, JavaScript/Typescript, Go and have made several projects in these languages including Connect 4, Baccarat, AlbatrossCC, and a job tracking website called DevJobTracker (see pinned).
+### Although I'm unable to show you most of my University projects due to copyrighted material, I would like to give you a quick introduction about me and what my goals are for the near future.
 
 ---
 
-- #### 🔭 I’m currently working on building my personal website. This platform will not only showcase my portfolio of past and upcoming projects (including being able to write in a custom made language I made during my time in college) but also feature my resume, detailing my work experience and skills.
+- #### 💻 I am very familiar with programming languages such as C/C++, Java, Python, JavaScript/Typescript, Go and have made several projects in these languages including Connect 4, Baccarat, AlbatrossCC, and a job tracking website called DevJobTracker (see [pinned](https://github.com/derppop/devjobtracker)).
+
+---
+
+- #### 🔭 I’m currently working on building my personal website as well as working on other projects that interest me. This platform will not only showcase my portfolio of past and upcoming projects (including being able to write in a custom made language I made during my time in college) but also feature my resume, detailing my work experience and skills.
 
 ---
 
@@ -31,7 +31,3 @@
 ---
 
 ### Thanks for stopping by. I look forward to connecting with you!
-
-<!--
-**arod1104/arod1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
