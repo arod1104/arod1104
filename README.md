@@ -14,7 +14,7 @@
 
 ---
 
-- #### 🌱 I’m consistently learning new technologies and best practices in software development to keep my skills sharp and up-to-date. Right now, I am learning more about front end technologies such as React and Bootstrap to give my upcoming personal website some personality. I also plan on learning back-end technologies such as Go, Docker, and AWS, where I plan on giving people the opportunity to experiment with my own compiled programming language also known as Albatross written in C.
+- #### 🌱 I’m consistently learning new technologies and best practices in software development to keep my skills sharp and up-to-date. Right now, I am learning more about web development as I hope to launch my personal portfolio website using core technologies such as Next.js and Tailwind CSS. I also plan on creating a full stack web app utilizing back-end technologies such as Go, Python and AWS for a service I have in mind.
 
 ---
 
