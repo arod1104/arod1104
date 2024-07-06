@@ -10,15 +10,15 @@
 
 ---
 
-- #### 🔭 I’m currently working on building my personal website as well as working on other projects that interest me. This platform will not only showcase my portfolio of past and upcoming projects (including being able to write in a custom made language I made during my time in college) but also feature my resume, detailing my work experience and skills.
+- #### 🔭 I’m currently working on building my personal website as well as working on other projects that interest me.
 
 ---
 
-- #### 🌱 I’m consistently learning new technologies and best practices in software development to keep my skills sharp and up-to-date. Right now, I am learning more about web development as I hope to launch my personal portfolio website using core technologies such as Next.js and Tailwind CSS. I also plan on creating a full stack web app utilizing back-end technologies such as Go, Python and AWS for a service I have in mind.
+- #### 🌱 I’m consistently learning new technologies and best practices in software development to keep my skills sharp and up-to-date. Right now, I am currently working on a personal website while also looking into creating full stack web app that utlizing natural language processing (NLP), data science and generative AI.
 
 ---
 
-- #### 👯 I’m looking to collaborate on open source projects of my interest and innovative tech ideas that aim to solve real-world problems. I am a big fan of video games, and contributing to open source emulators has been a goal of mine.
+- #### 👯 I’m looking to collaborate on open source projects of my interest and innovative tech ideas that aim to solve real-world problems. I am a big fan of video games, and contributing to open source emulators has been a goal of mine as well as other open source software we take for granted.
 
 ---
 
